@@ -1,0 +1,81 @@
+CASdatasets             CASdatasets package
+Davis                   Davis dataset
+ECBYieldCurve           Yield curve data spot rate, AAA-rated bonds,
+                        maturities from 3 months to 30 years
+FedYieldCurve           Federal Reserve interest rates
+ICB                     Insurance Company Benchmark
+Norberg                 Norberg's credibility dataset
+PnCdemand               Property and casualty insurance demand
+SOAGMI                  SOA Group Medical Insurance claim dataset
+asiacomrisk             Large commercial risks in Asia-Pacific
+ausNLHYby               Australian Market - non-life insurance
+                        (company, state, public level)
+ausNLHYglossary         Australian Market - non-life insurance
+                        (Glossary)
+ausNLHYlloyd            Australian Market - non-life insurance (LLoyds
+                        insurance business)
+ausNLHYtotal            Australian Market - non-life insurance
+                        (aggregate level)
+ausNSW                  Australian Statistics - New South Wales in 2004
+ausautoBI8999           Automobile bodily injury claim dataset in
+                        Australia
+auscathist              Australian catastrophe historic
+ausprivauto             Automobile claim datasets in Australia
+austriLoB               Australian private motor triangles
+beaonre                 AON Re Belgian dataset
+besecura                Secura Re Belgian dataset
+bragg                   Descriptive statistics of aggregate claims and
+                        premiums for the 41 Brazilian regions
+brautocoll              Brazilian Automobile Collision Claims
+brgeomunic              Brazilian geospatial dataset for municipalities
+brvehins                Two Brazilian datasets for vehicle insurance
+canlifins               Canadian life insurance
+credit                  German Credit dataset
+danish                  Danish reinsurance claim dataset
+eqlist                  Earthquake list
+forexUSUK               Foreign exchange rate between USD and GBP
+fre4LoBtriangles        French private motor triangles
+freDisTables            French Disability Tables and Probabilities
+freMPL                  French Motor Personal Line datasets
+freMTPL                 French Motor Third-Part Liability datasets
+freMortTables           French Mortality Tables
+freaggnumber            French aggregate claim numbers
+frebiloss               French business interruption losses
+freclaimset             French claim settlements
+frecomfire              French commercial fire losses
+fremotorclaim           French claims for private motor
+freportfolio            Portfolio Mortality and Disability Tables
+hurricanehist           Hurricane history: Per Storm Maximum Wind
+                        Speeds (North Atlantic)
+itamtplcost             Italian MTPL cost
+linearmodelfactor       A simulated with linear model factor
+lossalae                General Liability Claims
+norauto                 Norwegian fire insurance dataset
+norfire                 Norwegian fire insurance dataset
+nortritpl8800           Australian liabilty insurance triangles
+nzcathist               New Zealand catastrophe historic
+sgautonb                Singapore Automobile claim count dataset
+sgtriangles             Singapore general liability triangles
+spacedata               Space dataset
+swautoins               Swedish Motor Insurance dataset
+swbusscase              Swedish Buss Insurance dataset
+swmotorcycle            Swedish Motorcycle Insurance dataset
+swtriangles             Switzerland general liability triangles
+tplclaimnumber          TPL claim number dataset
+ukaggclaim              UK Car Insurance Claims for 1975
+ukautocoll              UK Automobile Collision Claims
+usGLtriangles           US general liability triangles
+usautoBI                Automobile bodily injury claim dataset
+usautotriangles         US Automobile triangles
+usexpense               US expense dataset
+ushurricane             Normalized Hurricane Damages
+ushustormloss4980       Normalized Hurricane Damages in US between 1949
+                        and 1980
+usmassBI                Massachusetts Automobile bodily injury claim
+                        datasets
+usmedclaim              US Medical claim incremental triangles
+usprivautoclaim         US Private Auto Claims
+usquakeLR               California earthquake loss ratios
+ustermlife              US Term Life insurance
+uswarrantaggnum         Warranty Automobile claims
+usworkcomp              US workers compensation dataset
