@@ -1,0 +1,27 @@
+Horodatage "Quel OS (Operating System) utilisez-vous au quotidien?" "Comment évaluez-vous vos connaissances de programmation en R?" "Comment évaluez-vous vos connaissances de programmation en SAS?" "Comment évaluez-vous vos connaissances de programmation en Python?" "Avez-vous déjà travaillé avec les outils de Versioning tel que GitHub?" "À quelle année êtes-vous rendu dans votre cheminement du bac?"
+"2018/01/09 9:16:57 p.m. HNE" windows 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/09 9:17:10 p.m. HNE" "mac os x" 1 0 0 "Aucune idée c'est quoi" 2
+"2018/01/09 9:17:17 p.m. HNE" windows 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/09 9:19:47 p.m. HNE" windows 1 0 0 "Aucune idée c'est quoi" 2
+"2018/01/09 9:20:42 p.m. HNE" "mac os x" 1 0 0 "Aucune idée c'est quoi" 2
+"2018/01/09 10:06:16 p.m. HNE" windows 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/09 10:22:36 p.m. HNE" windows 1 0 1 "Aucune idée c'est quoi" 2
+"2018/01/09 10:37:35 p.m. HNE" "mac os x" 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/09 11:31:47 p.m. HNE" "mac os x" 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 12:09:33 a.m. HNE" windows 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 1:48:49 a.m. HNE" windows 0 0 1 "Aucune idée c'est quoi" 2
+"2018/01/10 1:49:44 a.m. HNE" windows 0 0 1 "Aucune idée c'est quoi" 2
+"2018/01/10 6:11:01 a.m. HNE" windows 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 7:14:31 a.m. HNE" windows 0 0 0 "Aucune idée c'est quoi" 3
+"2018/01/10 7:30:40 a.m. HNE" "mac os x" 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 8:03:50 a.m. HNE" "mac os x" 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 8:43:04 a.m. HNE" windows 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 9:09:24 a.m. HNE" "mac os x" 0 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 9:09:34 a.m. HNE" windows 2 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 9:09:50 a.m. HNE" windows 1 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 9:25:14 a.m. HNE" "mac os x" 1 1 0 "Aucune idée c'est quoi" 3
+"2018/01/10 9:36:57 a.m. HNE" windows 1 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 9:37:27 a.m. HNE" windows 1 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 10:55:23 a.m. HNE" "mac os x" 1 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 11:06:12 a.m. HNE" "mac os x" 1 0 0 "Aucune idée c'est quoi" 2
+"2018/01/10 11:22:02 a.m. HNE" "mac os x" 0 0 0 "Aucune idée c'est quoi" 2

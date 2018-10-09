@@ -1,0 +1,11 @@
+Loan_ID,loan_status,Principal,terms,age,education,Gender
+xqd20166231,PAIDOFF,1000,30,45,High School or Below,male
+xqd20168902,PAIDOFF,1000,30,50,Bechalor,female
+xqd20160003,PAIDOFF,1000,30,33,Bechalor,female
+xqd20160004,PAIDOFF,1000,15,27,college,male
+xqd20160005,PAIDOFF,1000,30,28,college,female
+xqd20160706,PAIDOFF,300,7,35,Master or Above,male
+xqd20160007,PAIDOFF,1000,30,29,college,male
+xqd20160008,PAIDOFF,1000,30,36,college,male
+xqd20160909,PAIDOFF,1000,30,28,college,male
+xqd20160010,PAIDOFF,800,15,26,college,male

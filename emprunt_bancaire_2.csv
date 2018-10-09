@@ -1,0 +1,6 @@
+Loan_ID,loan_status,Principal,terms,age,education,Gender,effective_date,due_date
+xqd20166231,PAIDOFF,1000,30,45,High School or Below,male,9/8/2016,10/7/2016
+xqd20168902,PAIDOFF,500,30,50,Bechalor,female,9/8/2016,10/7/2016
+xqd20160003,PAIDOFF,1000,30,33,Bechalor,female,9/8/2016,10/7/2016
+xqd20160004,PAIDOFF,895,15,27,college,male,9/8/2016,9/22/2016
+xqd20160005,PAIDOFF,1000,30,28,college,female,9/9/2016,10/8/2016

@@ -1,0 +1,25 @@
+NOTE: Vehicle manufacturers are using an improved testing procedure, introduced for model year 2015, to determine the fuel consumption ratings of new light-duty vehicles. The improved testing produces higher fuel consumption ratings that are more representative
+of everyday driving. To help you compare vehicles from different model years, the ratings for 1995-2014 vehicles have been adjusted to reflect the improved testing.
+
+Understanding the Table
+Model	4WD/4X4 = Four-wheel drive											
+	AWD = All-wheel drive
+	FFV = Flexible-fuel vehicle
+	SWB = Short wheelbase
+	LWB = Long wheelbase
+	EWB = Extended wheelbase
+Transmission	A = Automatic
+	AM = Automated manual
+	AS = Automatic with select shift
+	AV = Continuously variable
+	M = Manual
+	3 Ð 10 = Number of gears
+Fuel Type	X = Regular gasoline
+	Z = Premium gasoline
+	D = Diesel
+	E = Ethanol (E85)
+	N = Natural gas
+Fuel Consumption	City and highway fuel consumption ratings are shown in litres per 100 kilometres (L/100 km) - the combined rating (55% city, 45% hwy) is shown in L/100 km and in miles per imperial gallon (mpg)
+CO2 Emissions	the tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving.
+CO2 Rating	the tailpipe emissions of carbon dioxide rated on a scale from 1 (worst) to 10 (best).
+Smog Rating	the tailpipe emissions of smog-forming pollutants rated on a scale from 1 (worst) to 10 (best).
